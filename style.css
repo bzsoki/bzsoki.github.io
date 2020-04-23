@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url("../First-Webapp/img/minimal4.jpg") no-repeat center center fixed;
+    background: url("../img/minimal4.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -168,15 +168,15 @@ h1 {
 }
 
 #tree {
-    background-image: url("../First-Webapp/img/tree2.jpg");
+    background-image: url("../img/tree2.jpg");
 }
 
 #astro {
-    background-image: url("../First-Webapp/img/astrocat.jpg");
+    background-image: url("../img/astrocat.jpg");
 }
 
 #pava {
-    background-image: url("../First-Webapp/img/pava.jpeg");
+    background-image: url("../img/pava.jpeg");
 }
 
 .thumbnail-up {
