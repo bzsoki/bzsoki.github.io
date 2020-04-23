@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url("https://github.com/bzsoki/bzsoki.github.io/blob/master/img/minimal4.jpg") no-repeat center center fixed;
+    background: url("https://github.com/bzsoki/bzsoki.github.io/blob/master/img/minimal4.jpg?raw=true") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -168,15 +168,15 @@ h1 {
 }
 
 #tree {
-    background-image: url("https://github.com/bzsoki/bzsoki.github.io/blob/master/img/tree2.jpg");
+    background-image: url("https://github.com/bzsoki/bzsoki.github.io/blob/master/img/tree2.jpg?raw=true");
 }
 
 #astro {
-    background-image: url("https://github.com/bzsoki/bzsoki.github.io/blob/master/img/astrocat.jpg");
+    background-image: url("https://github.com/bzsoki/bzsoki.github.io/blob/master/img/astrocat.jpg?raw=true");
 }
 
 #pava {
-    background-image: url("https://github.com/bzsoki/bzsoki.github.io/blob/master/img/pava.jpeg");
+    background-image: url("https://github.com/bzsoki/bzsoki.github.io/blob/master/img/pava.jpeg?raw=true");
 }
 
 .thumbnail-up {
